@@ -12,8 +12,7 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 ##
 <div align="center">
 
-| Mode Clair ☀️ | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Mode Sombre 🌙 |
-| :---: | :---: | :---: |
+ Mode Clair ☀️ | Mode Sombre 🌙 
 
 </div>
 
