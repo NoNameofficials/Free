@@ -8,7 +8,11 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 - **Accès instantané** : Lancez l'application et accédez directement à votre espace.
 - **Interface épurée** : Navigation optimisée pour une meilleure lisibilité sur smartphone.
 - **Léger** : Une application minimaliste qui ne ralentit pas votre téléphone.
-<img src="picturehomeapp.jpg" alt="Aperçu de l'application" width="500">
+<p align="center">
+  <img src="picturehomeapp1.jpg" alt="Écran 1" width="250">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="picturehomeapp2.jpg" alt="Écran 2" width="250">
+</p>
+
   
   
 
