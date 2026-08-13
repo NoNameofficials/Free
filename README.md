@@ -9,10 +9,10 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 - **Interface épurée** : Navigation optimisée pour une meilleure lisibilité sur smartphone.
 - **Léger** : Une application minimaliste qui ne ralentit pas votre téléphone.
 
+##
 
-  <| Mode Clair ☀️ | Mode Sombre 🌙 |
-| :---: | :---: |
-| <img src="picturehomeapp1.png" width="100%" alt="Mode Clair" /> | <img src="picturehomeapp2.png" width="100%" alt="Mode Sombre" /> |
+
+
 
 
 
