@@ -13,11 +13,16 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 # Free-Pr-pay-e-app-smartphone
 
 <p>Léger : Une application minimaliste qui ne ralentit pas votre téléphone.</p>
+<p align="center">
 
-<<p align="center">
-  <img src="picturehomeapp1.jpg" alt="Mode Clair" width="250" height="530" style="object-fit: cover; margin: 0 10px;" loading="lazy">
-  <img src="picturehomeapp2.jpg" alt="Mode Sombre" width="250" height="530" style="object-fit: cover; margin: 0 10px;" loading="lazy">
+  <b>Mode Clair ☀️</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Mode Sombre 🌙</b>
 </p>
+<p align="center">
+  <img src="chemin/vers/image/picturehomeapp1.png" width="45%" alt="Mode Clair" />
+  &nbsp; &nbsp;
+  <img src="chemin/vers/image/picturehomeapp2.png" width="45%" alt="Mode Sombre" />
+</p>
+
 
 
 ## ⚠️ Avertissement important (Non-officiel)
