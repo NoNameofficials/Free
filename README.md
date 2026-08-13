@@ -12,16 +12,16 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 ##
 <table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td align="center" style="border: none; padding: 0 10px;">
+    <td style="border: none; padding: 0 10px;">
       <img src="picturehomeapp1.jpg" alt="Mode Clair" width="250" loading="lazy">
-      <br><br><b>Mode Clair ☀️</b>
     </td>
-    <td align="center" style="border: none; padding: 0 10px;">
+    <td style="border: none; padding: 0 10px;">
       <img src="picturehomeapp2.jpg" alt="Mode Sombre" width="250" loading="lazy">
-      <br><br><b>Mode Sombre 🌙</b>
     </td>
   </tr>
 </table>
+
+
 
 
 
