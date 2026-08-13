@@ -11,12 +11,12 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 <table align="center">
   <tr>
     <td align="center">
-      <img src="picturehomeapp1.jpg" alt="Écran Principal" width="260" style="max-width: 100%; height: auto;" loading="lazy">
-      <br><sub><b>Écran Principal</b></sub>
+      <img src="picturehomeapp1.jpg" alt="Mode Clair" width="260" style="max-width: 100%; height: auto;" loading="lazy">
+      <br><sub><b>Mode Clair</b></sub>
     </td>
     <td align="center">
-      <img src="picturehomeapp2.jpg" alt="Deuxième Écran" width="260" style="max-width: 100%; height: auto;" loading="lazy">
-      <br><sub><b>Deuxième Écran</b></sub>
+      <img src="picturehomeapp2.jpg" alt="Mode Sombre" width="260" style="max-width: 100%; height: auto;" loading="lazy">
+      <br><sub><b>Mode Sombre</b></sub>
     </td>
   </tr>
 </table>
