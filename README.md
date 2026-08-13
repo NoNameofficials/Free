@@ -8,20 +8,11 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 - **Accès instantané** : Lancez l'application et accédez directement à votre espace.
 - **Interface épurée** : Navigation optimisée pour une meilleure lisibilité sur smartphone.
 - **Léger** : Une application minimaliste qui ne ralentit pas votre téléphone.
-<<div align="center">
 
-# Free-Pr-pay-e-app-smartphone
 
-<p>Léger : Une application minimaliste qui ne ralentit pas votre téléphone.</p>
-<p align="center">
-
-  <b>Mode Clair ☀️</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Mode Sombre 🌙</b>
-</p>
-<p align="center">
-  <img src="chemin/vers/image/picturehomeapp1.png" width="45%" alt="Mode Clair" />
-  &nbsp; &nbsp;
-  <img src="chemin/vers/image/picturehomeapp2.png" width="45%" alt="Mode Sombre" />
-</p>
+  <| Mode Clair ☀️ | Mode Sombre 🌙 |
+| :---: | :---: |
+| <img src="picturehomeapp1.png" width="100%" alt="Mode Clair" /> | <img src="picturehomeapp2.png" width="100%" alt="Mode Sombre" /> |
 
 
 
