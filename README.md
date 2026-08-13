@@ -10,6 +10,16 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 - **Léger** : Une application minimaliste qui ne ralentit pas votre téléphone.
 
 ##
+<p align="center">
+  <span style="border: 1px solid #58a6ff; padding: 6px 12px; border-radius: 6px; display: inline-block; margin: 0 10px;">
+    <b>Mode Clair ☀️</b>
+  </span>
+  <span style="border: 1px solid #f0883e; padding: 6px 12px; border-radius: 6px; display: inline-block; margin: 0 10px;">
+    <b>Mode Sombre 🌙</b>
+  </span>
+</p>
+
+
 <table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
@@ -20,15 +30,6 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
 
 ## ⚠️ Avertissement important (Non-officiel)
 **Ce projet est une initiative indépendante.** 
