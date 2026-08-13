@@ -10,6 +10,17 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 - **Léger** : Une application minimaliste qui ne ralentit pas votre téléphone.
 
 ##
+<table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px;">
+      <img src="picturehomeapp1.jpg" alt="Mode Clair" width="250" loading="lazy">
+    </td>
+    <td style="border: none; padding: 0 10px;">
+      <img src="picturehomeapp2.jpg" alt="Mode Sombre" width="250" loading="lazy">
+    </td>
+  </tr>
+</table>
+
 
 
 
