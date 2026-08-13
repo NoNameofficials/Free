@@ -14,22 +14,11 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 
 <p>Léger : Une application minimaliste qui ne ralentit pas votre téléphone.</p>
 
-<table style="margin: 0 auto; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="picturehomeapp1.jpg" alt="Mode Clair" width="240" style="max-width: 100%; height: auto;" loading="lazy">
-      <br><sub><b>Mode Clair</b></sub>
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="picturehomeapp2.jpg" alt="Mode Sombre" width="240" style="max-width: 100%; height: auto;" loading="lazy">
-      <br><sub><b>Mode Sombre</b></sub>
-    </td>
-  </tr>
-</table>
+<<p align="center">
+  <img src="picturehomeapp1.jpg" alt="Mode Clair" width="250" height="530" style="object-fit: cover; margin: 0 10px;" loading="lazy">
+  <img src="picturehomeapp2.jpg" alt="Mode Sombre" width="250" height="530" style="object-fit: cover; margin: 0 10px;" loading="lazy">
+</p>
 
-</div>
-
----
 
 ## ⚠️ Avertissement important (Non-officiel)
 **Ce projet est une initiative indépendante.** 
