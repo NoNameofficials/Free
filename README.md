@@ -14,8 +14,7 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 Cette application n'est en aucun cas affiliée, sponsorisée ou approuvée par la société **Free Mobile** ou le groupe **Iliad**. Le développeur décline toute responsabilité en cas de problème lié à l'utilisation du service. Utilisez cette application à vos propres risques.
 
 ## 📱 Installation
-1. Télécharger la dernière ![GitHub Release](https://img.shields.io/github/v/release/NoNameofficials/Free-Pr-pay-e-app-?style=for-the-badge&logo=github&color=blue)
-
+1. Télécharger la dernière
 `.apk` dans la section [Releases](https://github.com/NoNameofficials/Free-Pr-pay-e-app-/releases/latest).
 2. Autorisez l'installation d'applications provenant de sources inconnues dans les paramètres de votre téléphone Android.
 3. Installez le fichier et profitez de l'assistant !
@@ -30,3 +29,6 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 
 ---
 *Si vous appréciez ce projet, n'hésitez pas à mettre une étoile sur GitHub !*
+
+version ![GitHub Release](https://img.shields.io/github/v/release/NoNameofficials/Free-Pr-pay-e-app-?style=for-the-badge&logo=github&color=blue)
+
