@@ -10,10 +10,10 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 - **Léger** : Une application minimaliste qui ne ralentit pas votre téléphone.
 
 ##
-<div align="center">
+
 
       Mode ☀️/🌙 
-</div>
+
 
 
 
