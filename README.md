@@ -14,7 +14,6 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 
       Mode ☀️/🌙 
 
-##
 
 
 <table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
