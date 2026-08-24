@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/free-prepaye-icon.png"
+       alt="Assistant Free Prépayé"
+       width="160">
+</p>
+
+<h1 align="center">Assistant Free Prépayé</h1>
+
 # Assistant Free Prépayé (Non-officiel)
 
 Une application mobile légère et optimisée pour accéder rapidement à votre espace Free Prépayé.
