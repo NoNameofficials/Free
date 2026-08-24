@@ -6,7 +6,9 @@
 
 <h1 align="center">Assistant Free Prépayé</h1>
 
-# Assistant Free Prépayé (Non-officiel)
+<p align="center">
+  <strong>Application mobile non-officielle pour Free Prépayé</strong>
+</p>
 
 Une application mobile légère et optimisée pour accéder rapidement à votre espace Free Prépayé.
 
@@ -23,10 +25,10 @@ Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de
 <table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
-      <img src="picturehomeapp1.jpg" alt="Mode clair" width="250" loading="lazy">
+      <img src="assets/picturehomeapp1.jpg" alt="Mode clair" width="250" loading="lazy">
     </td>
     <td style="border: none; padding: 0 10px;">
-      <img src="picturehomeapp2.jpg" alt="Mode sombre" width="250" loading="lazy">
+      <img src="assets/picturehomeapp2.jpg" alt="Mode sombre" width="250" loading="lazy">
     </td>
   </tr>
 </table>
@@ -56,18 +58,4 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 
 *Si vous appréciez ce projet, n'hésitez pas à mettre une étoile sur GitHub !*
 
-[![Release](https://img.shields.io/github/v/release/NoNameofficials/Free-Pr-pay-e-app-?label=RELEASE&color=green&style=flat-square)](https://github.com/NoNameofficials/Free-Pr-pay-e-app-/releases)
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Android WebView](https://img.shields.io/badge/Android_WebView-4285F4?logo=googlechrome&logoColor=white)
-![WebToApp](https://img.shields.io/badge/WebToApp-111111)
-
-### 🤖 Assistance IA
-
-![Gemini](https://img.shields.io/badge/Gemini-8E75FF?logo=googlegemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)
+[![Release](https://img.shields.io/github/v/release/NoNameofficials/Free-Pr-pay-e-app-?label=RELEASE&color=green&style=flat-square)](https://github.com/NoNameofficials/Free-Pr-pay-e
