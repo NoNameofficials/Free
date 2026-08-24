@@ -42,13 +42,14 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 - [Reddit](https://www.reddit.com/u/_No_Name_404_/s/C0L4W0EToy)
 - [YouTube](https://youtube.com/@no_name.official)
 
-## 🛠 Technique
-*Projet développé avec l'assistance de Gemini pour la structure du code et l'optimisation de l'interface utilisateur.*
-
 ---
 *Si vous appréciez ce projet, n'hésitez pas à mettre une étoile sur GitHub !*
 
 [![Release](https://img.shields.io/github/v/release/NoNameofficials/Free-Pr-pay-e-app-?label=RELEASE&color=green&style=flat-square)](https://github.com/NoNameofficials/Free-Pr-pay-e-app-/releases)
+### 🤖 Assistance IA
+
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)
 
 ## 🛠️ Tech Stack
 
