@@ -43,7 +43,7 @@ Le développeur décline toute responsabilité concernant l'utilisation de l'app
 
 ## 📱 Installation
 
-1. Téléchargez la dernière version `.apk` depuis la section [Releases](https://github.com/NoNameofficials/Free-Pr-pay-e-app-/releases/latest).
+1. Téléchargez la dernière version `.apk` depuis la section [Releases](https://github.com/NoNameofficials/Free/releases/latest).
 2. Autorisez, si nécessaire, l'installation d'applications provenant de sources inconnues dans les paramètres de votre téléphone Android.
 3. Installez le fichier et profitez de l'assistant !
 
@@ -58,7 +58,7 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 
 *Si vous appréciez ce projet, n'hésitez pas à mettre une étoile sur GitHub !*
 
-[![Release](https://img.shields.io/github/v/release/NoNameofficials/Free-Pr-pay-e-app-?label=RELEASE&color=green&style=flat-square)](https://github.com/NoNameofficials/Free-Pr-pay-e-app-/releases)
+[![Release](https://img.shields.io/github/v/release/NoNameofficials/Free?label=RELEASE&color=green&style=flat-square)](https://github.com/NoNameofficials/Free-Pr-pay-e-app-/releases)
 
 ## 🛠️ Tech Stack
 
