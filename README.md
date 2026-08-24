@@ -4,7 +4,7 @@
        width="160">
 </p>
 
-<h1 align="center">Assistant Free Prépayé (Non Officiel</h1>
+<h1 align="center">Assistant Free Prépayé (Non-Officielle)</h1>
 
 <p align="center">
   <strong>Application mobile non-officielle pour Free Prépayé</strong>
