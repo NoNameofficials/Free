@@ -48,4 +48,4 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 ---
 *Si vous appréciez ce projet, n'hésitez pas à mettre une étoile sur GitHub !*
 
-[![Release](https://img.shields.io/github/v/release/NoNameofficials/Free-Pr-pay-e-app-?label=RELEASE&style=flat-square)](https://github.com/NoNameofficials/Free-Pr-pay-e-app-/releases)
+[![Release](https://img.shields.io/github/v/release/NoNameofficials/Free-Pr-pay-e-app-?label=RELEASE&color=green&style=flat-square)](https://github.com/NoNameofficials/Free-Pr-pay-e-app-/releases)
