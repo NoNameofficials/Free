@@ -1,1 +1,80 @@
+name: Update APK Downloads
 
+on:
+  release:
+    types: [published]
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-downloads:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Calculer les téléchargements APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          COUNT=$(gh release view --json assets --jq '
+            [.assets[]
+            | select(.name | endswith(".apk"))
+            | .downloadCount]
+            | add // 0
+          ')
+
+          VERSION=$(gh release view --json tagName --jq '.tagName')
+
+          echo "VERSION=$VERSION" >> "$GITHUB_ENV"
+          echo "COUNT=$COUNT" >> "$GITHUB_ENV"
+
+          echo "Dernière release : $VERSION"
+          echo "Téléchargements APK : $COUNT"
+
+      - name: Mettre à jour le README
+        run: |
+          python3 <<'PY'
+          import os
+          import re
+
+          path = "README.md"
+
+          with open(path, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          version = os.environ["VERSION"]
+          count = os.environ["COUNT"]
+
+          content = re.sub(
+              r'<!-- APK_DOWNLOADS_START -->.*?<!-- APK_DOWNLOADS_END -->',
+              f'''<!-- APK_DOWNLOADS_START -->
+          📥 **Téléchargements APK de la dernière release :** `{count}`
+          
+          🚀 **Dernière version :** `{version}`
+          <!-- APK_DOWNLOADS_END -->''',
+              content,
+              flags=re.S
+          )
+
+          with open(path, "w", encoding="utf-8") as f:
+              f.write(content)
+          PY
+
+      - name: Publier la mise à jour
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "Aucune modification."
+          else
+            git commit -m "Update APK download counter"
+            git push
+          fi
