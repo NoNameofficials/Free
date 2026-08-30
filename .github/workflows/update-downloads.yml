@@ -21,14 +21,19 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          COUNT=$(gh release view --json assets --jq '
+          DATA=$(curl -s \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/releases/latest")
+
+          VERSION=$(echo "$DATA" | jq -r '.tag_name')
+
+          COUNT=$(echo "$DATA" | jq '
             [.assets[]
-            | select(.name | endswith(".apk"))
-            | .downloadCount]
+            | select(.name | ascii_downcase | endswith(".apk"))
+            | .download_count]
             | add // 0
           ')
-
-          VERSION=$(gh release view --json tagName --jq '.tagName')
 
           echo "VERSION=$VERSION" >> "$GITHUB_ENV"
           echo "COUNT=$COUNT" >> "$GITHUB_ENV"
@@ -54,7 +59,7 @@ jobs:
               r'<!-- APK_DOWNLOADS_START -->.*?<!-- APK_DOWNLOADS_END -->',
               f'''<!-- APK_DOWNLOADS_START -->
           📥 **Téléchargements APK de la dernière release :** `{count}`
-          
+
           🚀 **Dernière version :** `{version}`
           <!-- APK_DOWNLOADS_END -->''',
               content,
@@ -74,7 +79,11 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "Aucune modification."
-          else
-            git commit -m "Update APK download counter"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update APK download counter"
+
+          git pull --rebase origin main
+
+          git push origin main
