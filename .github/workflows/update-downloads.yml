@@ -39,12 +39,16 @@ jobs:
             | add // 0
           ')
 
+          DATE=$(date '+%d/%m/%Y')
+
           echo "VERSION=$VERSION" >> "$GITHUB_ENV"
           echo "COUNT=$COUNT" >> "$GITHUB_ENV"
+          echo "DATE=$DATE" >> "$GITHUB_ENV"
 
           echo "======================================"
           echo "Dernière release : $VERSION"
           echo "Téléchargements APK : $COUNT"
+          echo "Date : $DATE"
           echo "======================================"
 
       - name: Mettre à jour le README
@@ -60,14 +64,19 @@ jobs:
 
           version = os.environ["VERSION"]
           count = os.environ["COUNT"]
+          date = os.environ["DATE"]
 
-          content = re.sub(
-              r'<!-- APK_DOWNLOADS_START -->.*?<!-- APK_DOWNLOADS_END -->',
-              f'''<!-- APK_DOWNLOADS_START -->
+          new_block = f"""<!-- APK_DOWNLOADS_START -->
           📥 **Téléchargements APK de la dernière release :** `{count}`
 
           🚀 **Dernière version :** `{version}`
-          <!-- APK_DOWNLOADS_END -->''',
+
+          📅 **Statistiques mises à jour :** `{date}`
+          <!-- APK_DOWNLOADS_END -->"""
+
+          content = re.sub(
+              r'<!-- APK_DOWNLOADS_START -->.*?<!-- APK_DOWNLOADS_END -->',
+              new_block,
               content,
               flags=re.S
           )
