@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/free-prepaye-icon.png"
+  <img src="assets/free-prepaye-icon1.png"
        alt="Assistant Free Prépayé"
        width="160">
 </p>
