@@ -19,7 +19,7 @@ jobs:
     steps:
 
       - name: Récupérer le dépôt
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Calculer les téléchargements APK
         env:
