@@ -7,14 +7,10 @@
 <h1 align="center">Assistant Free Prépayé</h1>
 
 <p align="center">
-  Application mobile non-officielle pour <strong>Free Prépayé</strong>
+  <span style="border: 1px solid #e10600; border-radius: 20px; padding: 6px 14px; color: #e10600; font-weight: bold;">
+    Application mobile non-officielle pour Free Prépayé
+  </span>
 </p>
-
-<p align="center">
-  Une application mobile légère et optimisée pour accéder rapidement à votre espace Free Prépayé.
-</p>
-
-Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de chercher l'URL dans son navigateur. Accédez à votre solde et gérez votre forfait en un clic grâce à une interface pensée pour le mobile.
 
 ## 🚀 Fonctionnalités
 
