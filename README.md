@@ -67,18 +67,6 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 
 ---
 
-<p align="center">
-  <em>Si vous appréciez ce projet, n'hésitez pas à mettre une étoile sur GitHub !</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NoNameofficials/Free/releases/latest">
-    <img src="https://img.shields.io/github/v/release/NoNameofficials/Free?label=RELEASE&color=green&style=flat-square" alt="Latest Release">
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -92,3 +80,17 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 
 ![Gemini](https://img.shields.io/badge/Gemini-8E75FF?logo=googlegemini&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)
+
+---
+
+<p align="center">
+  <strong>❤️ Vous appréciez le projet ?</strong>
+  <br>
+  Si l'application vous est utile, pensez à lui laisser une étoile ⭐
+</p>
+
+<p align="center">
+  <a href="https://github.com/NoNameofficials/Free">
+    <img src="https://img.shields.io/badge/⭐%20Laisser%20une%20étoile-e10600?style=for-the-badge&logo=github&logoColor=white" alt="Laisser une étoile sur GitHub">
+  </a>
+</p>
