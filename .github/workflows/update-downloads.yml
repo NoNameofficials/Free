@@ -6,6 +6,9 @@ on:
 
   workflow_dispatch:
 
+  schedule:
+    - cron: '0 0 * * *'
+
 permissions:
   contents: write
 
@@ -14,6 +17,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Récupérer le dépôt
         uses: actions/checkout@v4
 
@@ -38,8 +42,10 @@ jobs:
           echo "VERSION=$VERSION" >> "$GITHUB_ENV"
           echo "COUNT=$COUNT" >> "$GITHUB_ENV"
 
+          echo "======================================"
           echo "Dernière release : $VERSION"
           echo "Téléchargements APK : $COUNT"
+          echo "======================================"
 
       - name: Mettre à jour le README
         run: |
@@ -68,6 +74,7 @@ jobs:
 
           with open(path, "w", encoding="utf-8") as f:
               f.write(content)
+
           PY
 
       - name: Publier la mise à jour
