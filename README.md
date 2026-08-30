@@ -24,13 +24,13 @@
 <table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
-      <img src="assets/picturehomeapp1.jpg"
+      <img src="assets/pictures/picturehomeapp1.jpg"
            alt="Mode clair"
            width="250"
            loading="lazy">
     </td>
     <td style="border: none; padding: 0 10px;">
-      <img src="assets/picturehomeapp2.jpg"
+      <img src="assets/pictures/picturehomeapp2.jpg"
            alt="Mode sombre"
            width="250"
            loading="lazy">
@@ -43,13 +43,13 @@
 <table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
-      <img src="assets/picturehomeapp3.jpg"
+      <img src="assets/pictures/picturehomeapp3.jpg"
            alt="Vibration"
            width="250"
            loading="lazy">
     </td>
     <td style="border: none; padding: 0 10px;">
-      <img src="assets/picturehomeapp4.jpg"
+      <img src="assets/pictures/picturehomeapp4.jpg"
            alt="Vérification des mises à jour GitHub"
            width="250"
            loading="lazy">
