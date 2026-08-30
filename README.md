@@ -6,12 +6,6 @@
 
 <h1 align="center">Assistant Free Prépayé</h1>
 
-<p align="center">
-  <span style="border: 1px solid #e10600; border-radius: 20px; padding: 6px 14px; color: #e10600; font-weight: bold;">
-    Application mobile non-officielle pour Free Prépayé
-  </span>
-</p>
-
 ## 🚀 Fonctionnalités
 
 - **Accès instantané** : lancez l'application et accédez directement à votre espace.
