@@ -4,7 +4,9 @@
        width="420">
 </p>
 
-<h1 align="center" style="color:#e10600;">Assistant Free Prépayé</h1>
+<h1 align="center">
+  <span style="color:#e10600;">Assistant Free Prépayé</span>
+</h1>
 
 ## 🚀 Fonctionnalités
 
