@@ -10,7 +10,9 @@
   Application mobile non-officielle pour <strong>Free Prépayé</strong>
 </p>
 
-Une application mobile légère et optimisée pour accéder rapidement à votre espace Free Prépayé.
+<p align="center">
+  Une application mobile légère et optimisée pour accéder rapidement à votre espace Free Prépayé.
+</p>
 
 Ce projet a été conçu pour simplifier le quotidien des utilisateurs : fini de chercher l'URL dans son navigateur. Accédez à votre solde et gérez votre forfait en un clic grâce à une interface pensée pour le mobile.
 
