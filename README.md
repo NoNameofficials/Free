@@ -105,7 +105,6 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Android WebView](https://img.shields.io/badge/Android_WebView-4285F4?logo=googlechrome&logoColor=white)
 ![WebToApp](https://img.shields.io/badge/WebToApp-111111)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?logo=github&logoColor=white)
 
 ### 🤖 Assistance IA
