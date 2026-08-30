@@ -90,13 +90,6 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 ---
 
 <p align="center">
-  <a href="https://github.com/NoNameofficials/Free/releases/latest">
-    <img src="https://img.shields.io/github/v/release/NoNameofficials/Free?label=RELEASE&color=green&style=flat-square"
-         alt="Latest Release">
-  </a>
-</p>
-
-<p align="center">
 
 <!-- APK_DOWNLOADS_START -->
 📥 **Téléchargements APK de la dernière release :** `0`
