@@ -38,7 +38,9 @@
   </tr>
 </table>
 
-### 📳 Vibration / 🔄 Vérification des mises à jour GitHub
+---
+
+## 📳 Vibration / 🔄 Vérification des mises à jour GitHub
 
 <table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
   <tr style="border: none;">
