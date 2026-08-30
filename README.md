@@ -38,6 +38,25 @@
   </tr>
 </table>
 
+### 📳 Vibration / 🔄 Vérification des mises à jour GitHub
+
+<table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px;">
+      <img src="assets/picturehomeapp3.jpg"
+           alt="Vibration"
+           width="250"
+           loading="lazy">
+    </td>
+    <td style="border: none; padding: 0 10px;">
+      <img src="assets/picturehomeapp4.jpg"
+           alt="Vérification des mises à jour GitHub"
+           width="250"
+           loading="lazy">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## ⚠️ Avertissement important
@@ -67,6 +86,15 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 
 ---
 
+<p align="center">
+  <a href="https://github.com/NoNameofficials/Free/releases/latest">
+    <img src="https://img.shields.io/github/v/release/NoNameofficials/Free?label=RELEASE&color=green&style=flat-square"
+         alt="Latest Release">
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -91,6 +119,7 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 
 <p align="center">
   <a href="https://github.com/NoNameofficials/Free">
-    <img src="https://img.shields.io/badge/⭐%20Laisser%20une%20étoile-e10600?style=for-the-badge&logo=github&logoColor=white" alt="Laisser une étoile sur GitHub">
+    <img src="https://img.shields.io/badge/⭐%20Laisser%20une%20étoile-e10600?style=for-the-badge&logo=github&logoColor=white"
+         alt="Laisser une étoile sur GitHub">
   </a>
 </p>
