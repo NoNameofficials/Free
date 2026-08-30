@@ -19,7 +19,7 @@
 
 ---
 
-## ☀️ Mode clair / 🌙 Mode sombre
+## 🎨 Modes d'affichage — ☀️ Clair / 🌙 Sombre
 
 <table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
   <tr style="border: none;">
@@ -40,7 +40,7 @@
 
 ---
 
-## 📳 Vibration / 🔄 Vérification des mises à jour GitHub
+## ⚙️ Fonctionnalités supplémentaires — 📳 Vibration / 🔄 Mises à jour
 
 <table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
   <tr style="border: none;">
