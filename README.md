@@ -9,6 +9,11 @@
        alt="Assistant Free Prépayé">
 </p>
 
+## 📥 Téléchargements
+
+**Dernière release :** `v1.1.0`
+
+📱 **Téléchargements APK :** `0`
 ---
 
 ## 🚀 Fonctionnalités
