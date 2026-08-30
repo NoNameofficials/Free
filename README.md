@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/title.svg" alt="Assistant Free Prépayé">
+  <img src="assets/title.svg"
+       alt="Assistant Free Prépayé">
 </p>
+
+---
 
 ## 🚀 Fonctionnalités
 
@@ -14,18 +17,28 @@
 - **Interface épurée** : navigation optimisée pour une meilleure lisibilité sur smartphone.
 - **Léger** : une application minimaliste qui ne ralentit pas votre téléphone.
 
+---
+
 ## ☀️ Mode clair / 🌙 Mode sombre
 
 <table align="center" style="margin: 0 auto; border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
-      <img src="assets/picturehomeapp1.jpg" alt="Mode clair" width="250" loading="lazy">
+      <img src="assets/picturehomeapp1.jpg"
+           alt="Mode clair"
+           width="250"
+           loading="lazy">
     </td>
     <td style="border: none; padding: 0 10px;">
-      <img src="assets/picturehomeapp2.jpg" alt="Mode sombre" width="250" loading="lazy">
+      <img src="assets/picturehomeapp2.jpg"
+           alt="Mode sombre"
+           width="250"
+           loading="lazy">
     </td>
   </tr>
 </table>
+
+---
 
 ## ⚠️ Avertissement important
 
@@ -35,11 +48,15 @@ Cette application n'est en aucun cas affiliée, sponsorisée ou approuvée par *
 
 Le développeur décline toute responsabilité concernant l'utilisation de l'application ou du service Free Prépayé. Utilisez l'application à vos propres risques.
 
+---
+
 ## 📱 Installation
 
 1. Téléchargez la dernière version `.apk` depuis la section [Releases](https://github.com/NoNameofficials/Free/releases/latest).
 2. Autorisez, si nécessaire, l'installation d'applications provenant de sources inconnues dans les paramètres de votre téléphone Android.
 3. Installez le fichier et profitez de l'assistant !
+
+---
 
 ## 💬 Contact & Support
 
@@ -50,9 +67,17 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 
 ---
 
-*Si vous appréciez ce projet, n'hésitez pas à mettre une étoile sur GitHub !*
+<p align="center">
+  <em>Si vous appréciez ce projet, n'hésitez pas à mettre une étoile sur GitHub !</em>
+</p>
 
-[![Release](https://img.shields.io/github/v/release/NoNameofficials/Free?label=RELEASE&color=green&style=flat-square)](https://github.com/NoNameofficials/Free-Pr-pay-e-app-/releases)
+<p align="center">
+  <a href="https://github.com/NoNameofficials/Free/releases/latest">
+    <img src="https://img.shields.io/github/v/release/NoNameofficials/Free?label=RELEASE&color=green&style=flat-square" alt="Latest Release">
+  </a>
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
