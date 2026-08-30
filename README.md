@@ -96,6 +96,16 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
   </a>
 </p>
 
+<p align="center">
+
+<!-- APK_DOWNLOADS_START -->
+📥 **Téléchargements APK de la dernière release :** `0`
+
+🚀 **Dernière version :** `v1.1.0`
+<!-- APK_DOWNLOADS_END -->
+
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
