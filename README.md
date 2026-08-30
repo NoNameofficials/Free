@@ -105,12 +105,12 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Android WebView](https://img.shields.io/badge/Android_WebView-4285F4?logo=googlechrome&logoColor=white)
 ![WebToApp](https://img.shields.io/badge/WebToApp-111111)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ### 🤖 Assistance IA
 
 ![Gemini](https://img.shields.io/badge/Gemini-8E75FF?logo=googlegemini&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)
-
 ---
 
 <p align="center">
