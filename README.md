@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/free-prepaye-icon1.png"
        alt="Assistant Free Prépayé"
-       width="160">
+       width="180">
 </p>
 
 <h1 align="center">Assistant Free Prépayé (Non-Officielle)</h1>
