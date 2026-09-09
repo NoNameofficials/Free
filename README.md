@@ -96,7 +96,7 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 
 🚀 **Dernière version :** `v1.3.0`
 
-📅 **Statistiques mises à jour :** `08/09/2026`
+📅 **Statistiques mises à jour :** `09/09/2026`
 <!-- APK_DOWNLOADS_END -->
 
 </p>
