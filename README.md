@@ -94,9 +94,9 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 <!-- APK_DOWNLOADS_START -->
 📥 **Téléchargements APK de la dernière release :** `1`
 
-🚀 **Dernière version :** `v1.3.0`
+🚀 **Dernière version :** `v1.4.0`
 
-📅 **Statistiques mises à jour :** `11/09/2026`
+📅 **Statistiques mises à jour :** `12/09/2026`
 <!-- APK_DOWNLOADS_END -->
 
 </p>
