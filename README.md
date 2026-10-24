@@ -92,11 +92,11 @@ Besoin d'aide ou envie de suivre l'actualité du projet ?
 <p align="center">
 
 <!-- APK_DOWNLOADS_START -->
-📥 **Téléchargements APK de la dernière release :** `6`
+📥 **Téléchargements APK de la dernière release :** `7`
 
 🚀 **Dernière version :** `v1.4.0`
 
-📅 **Statistiques mises à jour :** `23/10/2026`
+📅 **Statistiques mises à jour :** `24/10/2026`
 <!-- APK_DOWNLOADS_END -->
 
 </p>
